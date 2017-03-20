@@ -1,0 +1,65 @@
+.main-menu .zd.navbar.navbar-inverse .navbar-inner {
+	background: none SaddleBrown !important;
+}
+
+.dashboard .leftPane {
+	background-color: MidnightBlue; 
+}
+
+.zd-side-pane {
+	background-color: SaddleBrown;
+}
+
+.canvas .zr-element {
+	background-color: purple !important ;
+}
+
+.nav .admin-control.zdView-SupervisorMenuItem {
+
+}
+
+.btn.btn-success.btn-large {
+	background-color: MidnightBlue;
+}
+
+#login-box.samlEnabled.collapse_login_box {
+	background-color: MidnightBlue;
+}
+
+.div.container {
+	background-color: SaddleBrown; 
+}
+
+.widget.selectedWidget.well {
+		border: 4px solid SaddleBrown !important; 
+}
+
+.widget.selectedWidget .ui-icon.ui-resizable-se {
+	color: SaddleBrown !important;
+}
+
+#init-page-gradient {
+    background: MidnightBlue !important;
+}
+
+.zd-home .carousel-area-snapshot:hover {
+   cursor: pointer;
+   transition: all 100ms linear !important;
+   box-shadow: 2px 2px 0 0 #00f, inset 0 0 0 5px #00f !important;
+}
+
+.zd-home .zd-carousel-home {
+	background-color: #00f !important;
+}
+
+input.btn.btn-success.btn-large:hover {
+	background-color: MidnightBlue !important;
+}
+
+input.btn.btn-success.btn-large {
+	background-color: SaddleBrown !important;
+}
+
+.midpane {
+	background-color: Beige !important;
+}
